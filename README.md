@@ -4,3 +4,5 @@
 ![fix-merge-conflict](./screenshots/screenshot-3-fix-merge-conflict.png)
 ![resolved-merge-conflict-on-github](./screenshots/screenshot-4-resolved-merge-conflict-on-github.png)
 ![utils-commits](./screenshots/screenshot-5-utils-commits.png)
+![rebase-1](./screenshots/screenshot-6-rebase-1.png)
+![rebase-2](./screenshots/screenshot-7-rebase-2.png)
